@@ -3,11 +3,8 @@ A Ribbon widget for Qt
 
 ![Ribbon widget in a QMainWindow on Linux](docs/image_linux1.png)
 
-## Prerequisites
-- Qt 5.x downloaded
-
 ## Usage
-Add the following files to your project:
+1. Add the following files to your project:
 * ribbon.h
 * ribbon.cpp
 * ribbonbuttongroup.h
@@ -17,9 +14,9 @@ Add the following files to your project:
 * ribbontabcontent.cpp
 * ribbontabcontent.ui
 
-Add a Ribbon to your window. The easiest method is to add an QTabWidget in QtDesigner and then promote this widget to a Ribbon.
+2. Add a Ribbon to your window. The easiest way is to add a QTabWidget in QtDesigner and then promote this widget to a Ribbon.
 
-In code, add tabs, button groups and buttons to the ribbon.
+3. In code, add tabs, button groups and buttons to the ribbon.
 
 Add tab 'Project'
 ```
