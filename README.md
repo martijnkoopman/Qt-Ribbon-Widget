@@ -1,6 +1,8 @@
 # Qt-Ribbon-Widget
 A Ribbon widget for Qt
 
+![Ribbon widget in a QMainWindow on Windows](docs/image_windows1.png)
+
 ![Ribbon widget in a QMainWindow on Linux](docs/image_linux1.png)
 
 ## Usage
