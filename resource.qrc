@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/briefcase_1.svg</file>
+        <file>icons/engineering_1.svg</file>
+        <file>icons/information_1.svg</file>
+        <file>icons/monitor_1.svg</file>
+        <file>icons/add_database_2.svg</file>
+        <file>icons/add_folder_2.svg</file>
+        <file>icons/add_link_2.svg</file>
+        <file>icons/create_new_2.svg</file>
+        <file>icons/file_2.svg</file>
+        <file>icons/live_folder_2.svg</file>
+        <file>icons/save_2.svg</file>
+    </qresource>
+</RCC>

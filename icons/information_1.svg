@@ -1,0 +1,21 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<g>
+	<line style="fill:none;stroke:#4E7AB5;stroke-miterlimit:10;" x1="4" y1="5.5" x2="9" y2="5.5"></line>
+</g>
+<g>
+	<line style="fill:none;stroke:#4E7AB5;stroke-miterlimit:10;" x1="4" y1="15.5" x2="12" y2="15.5"></line>
+</g>
+<g>
+	<g>
+		<rect x="6.5" y="5.5" style="fill:#8BB7F0;" width="3" height="10"></rect>
+	</g>
+	<g>
+		<path style="fill:#4E7AB5;" d="M9,6v9H7V6H9 M10,5H6v11h4V5L10,5z"></path>
+	</g>
+</g>
+<g>
+	<circle style="fill:#8BB7F0;" cx="8" cy="2" r="1.5"></circle>
+	<path style="fill:#4E7AB5;" d="M8,1c0.551,0,1,0.449,1,1S8.551,3,8,3S7,2.551,7,2S7.449,1,8,1 M8,0C6.895,0,6,0.895,6,2
+		s0.895,2,2,2s2-0.895,2-2S9.105,0,8,0L8,0z"></path>
+</g>
+</svg>

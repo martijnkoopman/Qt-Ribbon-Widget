@@ -1,0 +1,14 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 30 30" style="enable-background:new 0 0 30 30;" xml:space="preserve">
+<g>
+	<polygon style="fill:#FFFFFF;" points="5.5,27.5 5.5,2.5 18.793,2.5 24.5,8.207 24.5,27.5 	"></polygon>
+	<g>
+		<path style="fill:#788B9C;" d="M18.586,3L24,8.414V27H6V3H18.586 M19,2H5v26h20V8L19,2L19,2z"></path>
+	</g>
+</g>
+<g>
+	<polygon style="fill:#FFFFFF;" points="18.5,8.5 18.5,2.5 18.793,2.5 24.5,8.207 24.5,8.5 	"></polygon>
+	<g>
+		<path style="fill:#788B9C;" d="M19,3.414L23.586,8H19V3.414 M19,2h-1v7h7V8L19,2L19,2z"></path>
+	</g>
+</g>
+</svg>

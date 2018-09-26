@@ -1,0 +1,17 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<g>
+	<path style="fill:#967A44;" d="M10,1v2H6V1H10 M10,0H6C5.448,0,5,0.448,5,1v3h6V1C11,0.448,10.552,0,10,0L10,0z"></path>
+</g>
+<g>
+	<rect x="0.5" y="6.5" style="fill:#F5CE85;" width="15" height="8"></rect>
+	<path style="fill:#967A44;" d="M15,7v7H1V7H15 M16,6H0v9h16V6L16,6z"></path>
+</g>
+<g>
+	<path style="fill:#F5CE85;" d="M2,9.5C1.173,9.5,0.5,8.827,0.5,8V2.5h15V8c0,0.827-0.673,1.5-1.5,1.5H2z"></path>
+	<g>
+		<path style="fill:#967A44;" d="M15,3v5c0,0.551-0.449,1-1,1H2C1.449,9,1,8.551,1,8V3H15 M16,2H0v6c0,1.105,0.895,2,2,2h12
+			c1.105,0,2-0.895,2-2V2L16,2z"></path>
+	</g>
+</g>
+<circle style="fill:#967A44;" cx="8" cy="7.571" r="0.571"></circle>
+</svg>
